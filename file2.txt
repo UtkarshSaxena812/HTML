@@ -1,0 +1,2 @@
+This is my second file for git.
+I modified the content of the second file.
